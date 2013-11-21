@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "npm": {},
+    "intelligent.li": {
+      "git": "git@github.com:intelligent-li/Intelligent.li.js.git"
+    },
+    "streams": {},
+    "bootstrap3-less": {}
+  }
+}
